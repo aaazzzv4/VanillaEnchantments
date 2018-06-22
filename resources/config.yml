@@ -4,14 +4,13 @@
 
 # Armor damage trigger time (In seconds)
 # Recommended to not set 0 or 1
-check.time: 2
+check.time: 3
 
 # Armor damage per hit
 # This defines how much damage
 # Should armor take if player was hit
-armor.damage: 1
+armor.damage: 3
 
 # Version, recommended to not change
 version: "0x1"
-
 ...
