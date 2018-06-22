@@ -18,6 +18,6 @@ class EnchantedBook extends Item{
 	*/
 	
 	public function getMaxStackSize() : int{
-			return 1;
+			return 64;
 	}
 }
